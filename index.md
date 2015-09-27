@@ -2,7 +2,10 @@
 layout: index
 
 title: Mi primera página en Github PAGES
-tagline: Prueba de uso markdown + jekyll
+tagline: Bienvenido a mi página personal
 ---
 
-##Estoy probando esta funcionalidad
+Hola, mi nombre es Antonio Luna. En esta página iré colgando mis avances como estudiante en el CFGS ASIR, impartido en el centro IES. Gonzalo Nazareno en Dos Hermanas (Sevilla)
+
+
+Durante el curso actualizaré este sitio con algunas prácticas y pequeños proyectos personales que compartiré con todas las personas que estén interesadas
