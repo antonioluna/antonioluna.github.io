@@ -456,9 +456,7 @@
 	
 	#welcome .content
 	{
-		overflow: auto;
 		padding: 0em 8em;
-		text-align: center;
 	}
 	
 	#welcome .title h2
