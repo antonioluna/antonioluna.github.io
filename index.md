@@ -1,7 +1,7 @@
 ---
 layout: index
 
-title: Mi primera página en Github PAGES
+title: Portada
 tagline: Bienvenido a mi página personal
 ---
 
