@@ -24,7 +24,7 @@ Este artículo está escrito en el lenguaje de marcas "Markdown". Para su mejor 
 
 Markdown fue desarrollado por los ingenieros  **John Gruber** y **Aaron Swartz** para facilitar la publicación de páginas web.
 
-En [este enlace](https://github.com/antonioluna/antonioluna.github.io/blob/master/markdown.md) podrás ver la sintaxis del documento markdown utilizado para crear esta entrada.
+En [este enlace](https://raw.githubusercontent.com/antonioluna/antonioluna.github.io/master/markdown.md) podrás ver la sintaxis del documento markdown utilizado para crear esta entrada.
 
 ##Uso de listas:  
 Para crear una lista solo debemos poner un asterisco "*" al principio de la línea.  
